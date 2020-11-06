@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  padding: 20px;
+}
+
+#hero-div {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
+    url("/pexels-spencer-selover-706144.jpg");
+  /* background-image: url("/pexels-spencer-selover-706144.jpg");
+  /* background-blend-mode: overlay; */
+  background-position: center;
+  background-size: cover;
+}
