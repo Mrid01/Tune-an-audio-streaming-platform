@@ -7,10 +7,48 @@ h2 {
   padding: 20px;
 }
 
+hr {
+  padding: 10px;
+}
+
 #hero-div {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
-    url("pexels-spencer-selover-706144.jpg");
+    url("/pexels-spencer-selover-706144.jpg");
+  /* background-image: url("/pexels-spencer-selover-706144.jpg");
   /* background-blend-mode: overlay; */
   background-position: center;
   background-size: cover;
+}
+
+#featurette {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+#featurette-h1 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#gallery {
+  margin-top: 30px;
+}
+
+#gallery-h1 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#pricing {
+  margin-top: 30px;
+}
+
+#pricing-h1 {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+#footer {
+  margin-top: 40px;
 }
