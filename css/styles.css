@@ -18,7 +18,7 @@ hr {
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
     ),
-    url(pexels-spencer-selover-706144.jpg);
+    src("pexels-spencer-selover-706144.jpg");
   background-position: center;
   background-size: cover;
 }
