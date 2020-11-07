@@ -12,7 +12,7 @@ hr {
 }
 
 #hero-div {
-  background-image:url("pexels-spencer-selover-706144.jpg"), linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6));
+  background-image:url("pexels-spencer-selover-706144.jpg");
   background-blend-mode: overlay;
   background-position: center;
   background-size: cover;
